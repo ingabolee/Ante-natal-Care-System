@@ -1,6 +1,5 @@
 # Ante-natal Care System
 
-## Elevator Pitch
 A comprehensive web-based platform designed to manage and monitor maternal healthcare, enabling doctors and expectant mothers to track pregnancy progress efficiently.
 
 ## Overview
@@ -68,11 +67,9 @@ http://localhost/Ante-natal-Care-System-master/light/login.php
 
 This project showcases a strong grasp of scalable web application development, database management, and addressing specific business requirements in the healthcare sector.
 
-## License
-MIT License (Suggested)
-
 ## Contributing
 Contributions are welcome. Feel free to open issues or submit pull requests for enhancements.
 
 ## Author
 Maintained by the original project author.
+
