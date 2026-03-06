@@ -71,5 +71,6 @@ This project showcases a strong grasp of scalable web application development, d
 Contributions are welcome. Feel free to open issues or submit pull requests for enhancements.
 
 ## Author
-Maintained by the original project author.
+Lih Ingabo
+
 
